@@ -4,6 +4,11 @@
 
 > For this assignment we are to recreate the Netflix website using their assets, CSS fundamentals, and our own choice of 2 videos/gifs.
 
+
+## Deployment
+
+[grdnd.github.io/NetflixLanding/](https://grdnd.github.io/NetflixLanding/)
+
 ## Preview
 
 Static
