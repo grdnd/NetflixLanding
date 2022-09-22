@@ -60,11 +60,15 @@ button {
 }
 
 button {
+  display: flex;
+  align-items: center;
   background-color: red;
   color: var(--text-color);
   font-weight: 700;
 
   cursor: pointer;
+
+  padding: 0 1rem;
 }
 
 input {
@@ -90,7 +94,7 @@ main {
   justify-content: space-around;
   align-items: center;
 
-  height: 65vh;
+  height: 40vh;
   width: inherit;
 
   padding: 70px 40px;
