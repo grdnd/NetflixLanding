@@ -94,7 +94,7 @@ main {
   justify-content: space-around;
   align-items: center;
 
-  height: 40vh;
+  min-height: 60vh;
   width: inherit;
 
   padding: 70px 40px;
